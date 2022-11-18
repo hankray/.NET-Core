@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kCtWJzBEPCuRWuyv2wlLwIgQgKW+IZqPqCyxw/L+jjKo6of2DVAi6oZbFjWErcLz+0EYq3dM2pRAIrlvV20GUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HankWang\\OneDrive - 雲馥數位股份有限公司\\桌面\\DotnetCore\\DotnetCore\\DotnetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HankWang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
